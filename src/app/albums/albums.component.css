@@ -83,3 +83,12 @@ span.play-mix-btn:hover {
     }
 }
 
+.panel{
+    width: 15%;
+    display: inline-block;
+    margin:    0.1%;
+}
+.panel img{
+    width: 200px;
+    height: 200px;
+}

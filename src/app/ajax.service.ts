@@ -21,7 +21,6 @@ export class AJAXService {
 	}
 	stablishType(type){
 		this.actualType = type;
-		console.log(this.actualType);
 	}
 	showType(){
 		return this.actualType;
@@ -29,6 +28,12 @@ export class AJAXService {
 
 	searchTracks(): Observable<any>{
 		return this.tracksResult.asObservable();
+	}
+	searchAlbums(): Observable<any>{
+		return this.albumsResult.asObservable();
+	}
+	searchArtists(): Observable<any>{
+		return this.artistsResult.asObservable();
 	}
 
 	peticionId(id, type = this.actualType){
@@ -52,17 +57,18 @@ export class AJAXService {
 	peticionSearch(q, type = this.actualType){
 		console.log('ha entrado en peticionSearch')
 		if (type == 'album'){
-			this.ajax.get("https://api.spotify.com/v1/search?q="+q+"&type="+type)
+			this.ajax.get("https://api.spotify.com/v1/search?q="+q+"&type="+type+"&limit=30")
 			.map(response => response.json())
 			.subscribe(data => this.albumsResult.next(data))
 		}
 		else if (type == 'artist'){
-			this.ajax.get("https://api.spotify.com/v1/search?q="+q+"&type="+type)
+			this.ajax.get("https://api.spotify.com/v1/search?q="+q+"&type="+type+"&limit=30")
 			.map(response => response.json())
 			.subscribe(data => this.artistsResult.next(data))
+			console.log("en artist")
 		}
 		else if (type == 'track'){
-			this.ajax.get("https://api.spotify.com/v1/search?q="+q+"&type="+type)
+			this.ajax.get("https://api.spotify.com/v1/search?q="+q+"&type="+type+"&limit=30")
 			.map(response => response.json())
 			.subscribe(data => this.tracksResult.next(data))
 		}

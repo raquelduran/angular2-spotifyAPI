@@ -26,6 +26,7 @@ export class TopnavbarComponent implements OnInit {
 
   funcionInput(){
     console.log(encodeURI(this.input_content));
+    this.actualComponent = this.ajax_s.showType();
     this.ajax_s.peticionSearch(encodeURI(this.input_content), this.actualComponent)
     this.input_content="";
 
