@@ -1,0 +1,19 @@
+tr:nth-child(odd){
+	background-color: #F9F9F9;
+}
+tr.row-head{
+	background-color: white;
+}
+.dcha{
+	text-align: left;
+}
+
+.dcha .suc{
+	text-align: left;
+}
+.basic tr{
+	background-color: white;
+}
+.song:hover{
+	color: #18BC9C;
+}

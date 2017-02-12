@@ -1,0 +1,1191 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"TEX",
+				"text-align"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"MY",
+				"myModalLabel"
+			],
+			[
+				"se",
+				"searchTracks\tmethod"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"left",
+				"margin-left"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"PAD",
+				"padding-right"
+			],
+			[
+				"MAR",
+				"margin-top"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"f",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"xm",
+				"xmlDoc"
+			],
+			[
+				"ge",
+				"getElementsByTagName"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"zip",
+				"zipcode"
+			],
+			[
+				"Ba",
+				"drawChartBars"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"punt",
+				"puntuacion"
+			],
+			[
+				"pared",
+				"paredAbajo"
+			],
+			[
+				"paredA",
+				"paredArriba"
+			],
+			[
+				"cir",
+				"circulo"
+			],
+			[
+				"con",
+				"conjuntoLadrillos"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"choque",
+				"choqueLadrillo"
+			],
+			[
+				"b",
+				"brick"
+			],
+			[
+				"chan",
+				"changeWallColor"
+			],
+			[
+				"ci",
+				"circulo"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"H",
+				"height"
+			],
+			[
+				"top",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"dra",
+				"drawChartBars"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"IN",
+				"inline-flex"
+			],
+			[
+				"FLE",
+				"flex-wrap"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"fle",
+				"flex-flow"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"crear",
+				"crearCircle"
+			],
+			[
+				"st",
+				"stroke-width"
+			],
+			[
+				"pre",
+				"preg_match"
+			],
+			[
+				"P",
+				"padding"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"gene",
+				"generateBoard"
+			],
+			[
+				"cre",
+				"createAlert"
+			],
+			[
+				"mo",
+				"movements"
+			],
+			[
+				"place",
+				"placeBoard"
+			],
+			[
+				"blank",
+				"blankSpace"
+			],
+			[
+				"this",
+				"thisController"
+			],
+			[
+				"no",
+				"notifications"
+			],
+			[
+				"blan",
+				"blankSpace"
+			],
+			[
+				"new",
+				"newNumber"
+			],
+			[
+				"gen",
+				"generateTurns"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"ch",
+				"checkIfWinner"
+			],
+			[
+				"juga",
+				"jugador1"
+			],
+			[
+				"squa",
+				"squareAvailable"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"S",
+				"strings"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/app/artists/artists.component.html",
+			"settings":
+			{
+				"buffer_size": 795,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/topnavbar/topnavbar.component.html",
+			"settings":
+			{
+				"buffer_size": 2008,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/artists/artists.component.ts",
+			"settings":
+			{
+				"buffer_size": 957,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/topnavbar/topnavbar.component.ts",
+			"settings":
+			{
+				"buffer_size": 1021,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/albums/albums.component.html",
+			"settings":
+			{
+				"buffer_size": 2990,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/tracks/tracks.component.html",
+			"settings":
+			{
+				"buffer_size": 3063,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/albums/albums.component.ts",
+			"settings":
+			{
+				"buffer_size": 782,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/tracks/tracks.component.ts",
+			"settings":
+			{
+				"buffer_size": 1017,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/ajax.service.ts",
+			"settings":
+			{
+				"buffer_size": 2500,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "PACKA",
+		"selected_items":
+		[
+			[
+				"PACKA",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/.gitignore",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/package.json",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/albums/albums.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/artists/artists.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/footer/footer.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/footer/footer.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/artists/artists.component.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/topnavbar/topnavbar.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/topnavbar/topnavbar.component.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/tracks/tracks.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/tracks/tracks.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/index.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/app.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/app.module.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/variable.service.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/topnavbar/topnavbar.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/tracks/tracks.component.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/ajax.service.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/albums/albums.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/artists/artists.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/styles.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/src/app/app.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/angular-cli.json",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/node_modules/bootstrap/dist/css/bootstrap-theme.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/node_modules/bootstrap/dist/css/bootstrap.min.css.map",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto2/proyecto-spotify/node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/app.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/main.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/app.component.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/app.routes.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/index.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/app.module.ts",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/topnavbar/topnavbar.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/artists/artists.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/albums/albums.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/tracks/tracks.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/app/topnavbar/topnavbar.component.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto-spotify/spotify-project/src/styles.css",
+		"/D/Users/Raquel/Documents/DWEC/angular/angular1/src/app/app.component.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto1/proyecto1/assets/style.css",
+		"/D/Users/Raquel/Documents/DWEC/proyecto1/proyecto1/assets/script.js",
+		"/D/Users/Raquel/Documents/DWEC/proyecto1/proyecto1/index.html",
+		"/D/Users/Raquel/Documents/DWEC/proyecto1/proyecto1/assets/jquery.js",
+		"/D/Users/Raquel/Downloads/proyecto1/proyecto1/assets/style.css",
+		"/D/Users/Raquel/Downloads/proyecto1/proyecto1/index.html",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/index.html",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/style.css",
+		"/D/Users/Raquel/Documents/DWEC/jquery2-1.html",
+		"/C/xampp/htdocs/dwec/correos_jquery.html",
+		"/C/xampp/htdocs/dwec/correos.js",
+		"/C/xampp/htdocs/dwec/movie.html",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/jquery.js",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/script.js",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/bootstrap/css/bootstrap.css",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/progress_bar/bar.js",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/bootstrap/css/bootstrap.min.css",
+		"/D/Users/Raquel/Downloads/Portfolio Free Website Template - Free-CSS.com/thebootstrapthemes-portfolio/assets/animate/set.css",
+		"/D/Users/Raquel/Documents/DIWEB/bread_1.html",
+		"/D/Users/Raquel/Documents/DWEC/initializr-verekia-4.0/initializr/index.html",
+		"/D/Users/Raquel/Documents/DWEC/initializr-verekia-4.0/initializr/css/main.css",
+		"/D/Users/Raquel/Documents/DIWEB/prueba_modal.html",
+		"/D/Users/Raquel/Documents/DWEC/envio.html",
+		"/C/Users/Raquel Fernández/prueba_blog/source/_posts/primera_entrada.md",
+		"/C/Users/Raquel Fernández/prueba_blog/source/_posts/hello-world.md",
+		"/C/xampp/htdocs/dwec/examen.html",
+		"/C/xampp/htdocs/dwec/examen.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/wallsgame/svg.html",
+		"/D/Users/Raquel/Documents/DIWEB/pruebaboots.html",
+		"/D/Users/Raquel/Documents/DWES/cookies/sesiones.php",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/formulario.html",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/charts/charts.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/charts/googlechart.html",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/dom.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/wallsgame/juegoparedes.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/form.js",
+		"/C/xampp/htdocs/dwec/correos.html",
+		"/D/Users/Raquel/Documents/DWES/cookies/ejercicio2.php",
+		"/D/Users/Raquel/Documents/DWES/cookies/ejercicio1.php",
+		"/C/xampp/htdocs/dwec/1ajax.html",
+		"/F/raquel_fernandez/examen.js",
+		"/F/raquel_fernandez/examen.html",
+		"/C/Users/Raquel Fernández/Desktop/datos.xml",
+		"/C/xampp/htdocs/dwec/correos.xml",
+		"/D/Users/Raquel/Documents/DWES/cookies/sesionesc.php",
+		"/D/Users/Raquel/Documents/DWES/cookies/sesionesb.php",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/cook.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/cook.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/contact.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/scripts/functions.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/svg.html",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/charts.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/juegoparedes.js",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/css/cars-style.css",
+		"/D/Users/Raquel/Documents/DIWEB/examen/Archivos-ejercicio1/Archivos-ejercicio1/css/main-styles.css",
+		"/D/Users/Raquel/Documents/DIWEB/examen/Archivos-ejercicio1/Archivos-ejercicio1/mytrips.html",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/googlechart.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/cars.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/css/services-style.css",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/about.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/services.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/css/events-style.css",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/index.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/events.html",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/css/about-style.css",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/css/contact-style.css",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/ajaxtext.txt",
+		"/D/Users/Raquel/Documents/DIWEB/practica2/classic-cars/css/main-style.css",
+		"/D/Users/Raquel/Documents/DIWEB/eeevents.html",
+		"/D/Users/Raquel/Documents/DIWEB/examen/Archivos-ejercicio1/Archivos-ejercicio1/css/mytrips-styles.css",
+		"/D/Users/Raquel/Documents/DIWEB/responsive.html",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/notas.html",
+		"/D/Users/Raquel/Documents/DIWEB/hamburguer.html",
+		"/D/Users/Raquel/Documents/DIWEB/raquel-fernandez-PARTE1/mytrips.html",
+		"/D/Users/Raquel/Documents/DIWEB/raquel-fernandez-PARTE1/css/mytrips-styles.css",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 3/tictactoe/tictactoe.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/notas.js",
+		"/C/xampp/htdocs/dwes/cadenas.php",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 3/puzzle/puzzle.js",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 3/puzzle/puzzle.html",
+		"/D/Users/Raquel/Documents/DWEC/UNIT 5/listas.html",
+		"/D/Users/Raquel/Documents/DIWEB/flex.html",
+		"/D/Users/Raquel/Documents/DIWEB/galeria.html",
+		"/D/Users/Raquel/Documents/DIWEB/howto.html",
+		"/D/Users/Raquel/Downloads/Archivos-ejercicio3/Archivos-ejercicio3/css/gallery-styles.css",
+		"/D/Users/Raquel/Downloads/Archivos-ejercicio3/Archivos-ejercicio3/css/main-styles.css",
+		"/D/Users/Raquel/Downloads/Archivos-ejercicio3/Archivos-ejercicio3/gallery.html",
+		"/D/Users/Raquel/Documents/DIWEB/examen/Archivos-ejercicio1/Archivos-ejercicio1/mytrips-styles.css"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"D:\\Users\\Raquel\\Downloads\\Portfolio Free Website Template - Free-CSS.com\\thebootstrapthemes-portfolio,D:\\Users\\Raquel\\Documents\\DWEC\\proyecto-spotify\\spotify-project",
+			"D:\\Users\\Raquel\\Downloads\\Portfolio Free Website Template - Free-CSS.com\\thebootstrapthemes-portfolio",
+			"D:\\Users\\Raquel\\Documents\\DIWEB\\practica2\\classic-cars",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"4",
+			"Tracks",
+			"h3",
+			"3",
+			"Lorem ipsum dolor sit amet",
+			"p>",
+			"p",
+			"artista",
+			"50",
+			"5",
+			"success",
+			"primary",
+			"warning",
+			"style='display:inline-block;",
+			"div",
+			"ç",
+			"variable",
+			"p",
+			"listaTracks",
+			"#EEBFBF",
+			"<li role=\"presentation\"><a href=\"#albums\" aria-controls=\"albums\" role=\"tab\" data-toggle=\"tab\">Albums</a></li>",
+			"100",
+			"200",
+			"col-md-offset-4",
+			"-block",
+			"n2",
+			"@NgModule",
+			"albums",
+			"Albums",
+			"albums",
+			"Albums",
+			"main",
+			"FOOTER",
+			"not_",
+			"footer",
+			"goto",
+			"favicon",
+			"f8f8f8",
+			"111",
+			"f8f8f8",
+			"result",
+			"lg",
+			"md",
+			"article",
+			"sm",
+			"2",
+			"lg",
+			"danger",
+			"ue",
+			"01",
+			"Dos",
+			"Contraseña",
+			"ejemplo_password_1",
+			"svg",
+			"div",
+			"$password",
+			"$username",
+			"username",
+			"\"password\"",
+			"\"username\"",
+			"h2",
+			"\"username\"",
+			"username",
+			"users",
+			"monica",
+			"cookie_value",
+			"cookie_name",
+			"h2",
+			"mail",
+			"borrarCookie",
+			"crearCookie",
+			"?hl=es&gl=ES",
+			"\t\t<li><a href=\"#\"><i class=\"fa fa-twitter\"></i></a></li>\n\t\t<li><a href=\"#\"><i class=\"fa fa-facebook\"></i></a></li>\n\t\t<li><a href=\"#\"><i class=\"fa fa-instagram\"></i></a></li>\n\t\t<li><a href=\"#\"><i class=\"fa fa-youtube\"></i></a></li>",
+			"<ul id=\"social\">",
+			"loadDoc",
+			"5",
+			";\n",
+			"div",
+			"h5",
+			"this",
+			"</h2>",
+			"</a>",
+			"<h2>",
+			"hr",
+			"m-",
+			"color",
+			"myDIV",
+			"ELEMENTO",
+			"this.circle.",
+			"09",
+			"01",
+			"5",
+			"script",
+			"parent",
+			"this.velx",
+			"forma",
+			"polygon",
+			"red",
+			"circulo",
+			"svg",
+			"||",
+			"crea_tumbs",
+			"tumbs",
+			"foto",
+			"rdo",
+			"1",
+			"imag",
+			"fotos",
+			"subject",
+			"ereg",
+			"gestor",
+			"archivo",
+			"gestor",
+			"n2",
+			"n1",
+			"n2",
+			"n1",
+			"TAM",
+			"checkKey",
+			"checkIfWinner",
+			"thisController",
+			"column2",
+			"row2",
+			"demo",
+			"Game",
+			"game",
+			"Game",
+			"myFunction"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"favicon3",
+			"",
+			"\t\t<li><a href=\"https://twitter.com/\"><i class=\"fa fa-twitter\"></i></a></li>\n\t\t<li><a href=\"https://www.facebook.com/\"><i class=\"fa fa-facebook\"></i></a></li>\n\t\t<li><a href=\"https://www.instagram.com/\"><i class=\"fa fa-instagram\"></i></a></li>\n\t\t<li><a href=\"https://www.youtube.com/?hl=es&gl=ES\"><i class=\"fa fa-youtube\"></i></a></li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/app/artists/artists.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 795,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								795,
+								795
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/app/topnavbar/topnavbar.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								585,
+								585
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/artists/artists.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 9.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 3,
+					"file": "src/app/topnavbar/topnavbar.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1010,
+								1010
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 424.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/app/albums/albums.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2990,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								166,
+								166
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/tracks/tracks.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								885,
+								892
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app/albums/albums.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								559,
+								559
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/app/tracks/tracks.component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1017,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/ajax.service.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2500,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1320,
+								1320
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 764.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.494031686985,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto2-sublime.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Users\\Raquel\\Documents\\DWEC\\UNIT 5\\formulario.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 420.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

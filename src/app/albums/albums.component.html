@@ -1,0 +1,43 @@
+<div class='supercontainer listaalbums' *ngIf='topAlbums'>
+
+<div class="panel panel-success" *ngFor='let item of topAlbums.albums.items; let i = index'>
+  <div class="panel-heading">
+    <h3 class="panel-title">{{structureArtists(item.artists)}}</h3>
+  </div>
+  <div class="panel-body">
+    <img src={{item.images[0].url}} alt="">
+  </div>
+  <span class="label label-default">ALBUM</span>
+  <h5>{{item.name}}</h5>
+  <a data-toggle="modal" [attr.data-target]="'#myModal' + i" class="btn btn-primary btn-sm" style="margin-bottom:1%;">More</a>
+   <!--MODAL-->
+        <div class="modal fade"  id="myModal{{i}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header well" style="text-align: center;">
+              <img src={{item.images[0].url}} name="aboutme" width="200" height="200" border="0" style="margin-bottom: 1%;"><br>
+                <h3 class="media-heading">{{item.name}}</h3>
+              </div>
+            <div class="modal-body" style="text-align: left;">
+            <table class="basic">
+              <tr>
+              <td class='dcha suc' style="margin-left=0;"><span class="label label-default">TYPE</span></td>
+              <td class='dcha'><h4>{{item.album_type}}</h4></td>
+              </tr>
+              <tr>
+              <td class='dcha suc' style="margin-left=0;"><span class="label label-default">ARTISTS</span></td>
+              <td class='dcha'><h4>{{structureArtists(item.artists)}}</h4></td>
+              </tr>
+            </table>
+            <div style="text-align: right; " class="well">
+            <a href={{item.external_urls.spotify}} target="_blank">Go to Spotify!</a></div>
+            </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div><!--MODAL ENDS-->
+</div>
+   
+</div>

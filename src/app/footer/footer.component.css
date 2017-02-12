@@ -1,0 +1,13 @@
+footer{
+	background-color: #2C3E50;
+	color:white;
+	text-align: center;
+}
+footer p {
+	color: #18BC9C;
+	font-size: 10px;
+}
+footer nav.navbar{
+	margin-bottom: 	0px;
+	margin-top:1%;
+}
