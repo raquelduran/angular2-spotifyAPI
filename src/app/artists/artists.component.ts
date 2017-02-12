@@ -11,7 +11,7 @@ export class ArtistsComponent implements OnInit {
 
 constructor(private ajax_s: AJAXService) { 
     this.ajax_s.stablishType('artist');
-    this.ajax_s.peticionSearch('alejandro%20sanz');
+    this.ajax_s.peticionSearch('malu');
 	}
 
   ngOnInit() {

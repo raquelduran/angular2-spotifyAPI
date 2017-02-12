@@ -31,7 +31,12 @@ export class TopnavbarComponent implements OnInit {
     this.input_content="";
 
   }
+   formatComp(){
+     this.actualComponent = this.ajax_s.showType();
+     return this.actualComponent.charAt(0).toUpperCase() +
+     this.actualComponent.slice(1)+ "s";
 
+   }
 }
 
   
