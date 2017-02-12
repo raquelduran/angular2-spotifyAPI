@@ -27,3 +27,8 @@
 	}
 }
 
+
+.navbar-default .navbar-nav>li>a:focus{
+    color: #ffffff;
+    background-color: #1a242f;
+}

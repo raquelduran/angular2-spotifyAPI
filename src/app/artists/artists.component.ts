@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AJAXService } from '../ajax.service';
 
 @Component({
   selector: 'app-artists',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ArtistsComponent implements OnInit {
 
-  constructor() { }
+constructor(private ajax_s: AJAXService) { 
+    this.ajax_s.stablishType('artist');
+	}
 
   ngOnInit() {
   }

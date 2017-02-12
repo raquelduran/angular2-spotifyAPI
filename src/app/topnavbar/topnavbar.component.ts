@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AJAXService } from '../ajax.service';
 
 
 @Component({
@@ -11,18 +12,27 @@ export class TopnavbarComponent implements OnInit {
 	themes = [];
 	selectedTheme ='FLATLY';
 	link="https://bootswatch.com/darkly/bootstrap.min.css";
+  private input_content;
+  private actualComponent;
 
-  constructor() { 
+
+  constructor(private ajax_s: AJAXService) { 
   	this.title = "Spotify API Project";
   	this.themes = [
   	{name:'DARKLY', link: 'https://bootswatch.com/darkly/bootstrap.min.css'},
   	{name:'FLATLY', link:'https://bootswatch.com/flatly/bootstrap.min.css'}
   	]
+    this.actualComponent = ajax_s.showType();
+
   }
   ngOnInit() {
   }
-  onSelect(theme) {
-  this.selectedTheme = theme.name;
+
+  funcionInput(){
+    console.log(encodeURI(this.input_content));
+    this.ajax_s.peticionSearch(encodeURI(this.input_content), this.actualComponent)
+    this.input_content="";
+
   }
 
 }

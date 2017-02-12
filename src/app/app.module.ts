@@ -6,6 +6,9 @@ import { HttpModule } from '@angular/http';
 
 import { RouterModule, Routes } from '@angular/router';
 
+import {AJAXService} from './ajax.service';
+
+
 import { AppComponent } from './app.component';
 import { TracksComponent } from './tracks/tracks.component';
 import { ArtistsComponent } from './artists/artists.component';
@@ -36,7 +39,7 @@ const appRoutes: Routes = [
     FormsModule,
     HttpModule
   ],
-  providers: [],
+  providers: [AJAXService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
