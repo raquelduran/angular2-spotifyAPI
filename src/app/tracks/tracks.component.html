@@ -11,7 +11,7 @@
     <tbody class="listatracks" *ngIf='topTracks'>
       <tr *ngFor='let item of topTracks.tracks.items; let i = index'>
         <td>{{i+1}}</td>
-        <td data-toggle="modal" [attr.data-target]="'#myModal' + i">{{item.name}}</td>
+        <td data-toggle="modal" [attr.data-target]="'#myModal' + i" class="song">{{item.name}}</td>
         <!--MODAL-->
         <div class="modal fade"  id="myModal{{i}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
           <div class="modal-dialog" role="document">

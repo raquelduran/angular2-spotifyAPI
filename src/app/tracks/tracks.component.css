@@ -14,6 +14,6 @@ tr.row-head{
 .basic tr{
 	background-color: white;
 }
-.basic h4{
-	
+.song:hover{
+	color: #18BC9C;
 }

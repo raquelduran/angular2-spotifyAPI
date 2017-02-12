@@ -18,10 +18,6 @@ export class TopnavbarComponent implements OnInit {
 
   constructor(private ajax_s: AJAXService) { 
   	this.title = "Spotify API Project";
-  	this.themes = [
-  	{name:'DARKLY', link: 'https://bootswatch.com/darkly/bootstrap.min.css'},
-  	{name:'FLATLY', link:'https://bootswatch.com/flatly/bootstrap.min.css'}
-  	]
     this.actualComponent = ajax_s.showType();
 
   }

@@ -15,6 +15,7 @@ import { ArtistsComponent } from './artists/artists.component';
 import { AlbumsComponent } from './albums/albums.component';
 import { NotfoundComponent } from './notfound/notfound.component';
 import { TopnavbarComponent } from './topnavbar/topnavbar.component';
+import { FooterComponent } from './footer/footer.component';
 
 const appRoutes: Routes = [
   { path: 'artists', component: ArtistsComponent },
@@ -31,7 +32,8 @@ const appRoutes: Routes = [
     ArtistsComponent,
     AlbumsComponent,
     NotfoundComponent,
-    TopnavbarComponent
+    TopnavbarComponent,
+    FooterComponent
   ],
   imports: [
     RouterModule.forRoot(appRoutes),
